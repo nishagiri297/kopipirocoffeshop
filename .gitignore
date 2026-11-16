@@ -1,0 +1,7 @@
+# Product photos uploaded through the owner panel (demo images are kept)
+uploads/products/product_*
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
